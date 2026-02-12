@@ -68,3 +68,16 @@ Principais operações desenvolvidas:
 - Organização dos resultados para análise
 
 Essa etapa representa a transição do processamento de dados para a geração de informações consolidadas, permitindo identificar padrões e métricas relevantes a partir dos datasets.
+
+## 🧪 Notebook 5 — Otimização e Performance (`otimizacao.ipynb`)
+
+Este notebook aborda técnicas de otimização no processamento de dados com PySpark, visando melhorar a eficiência e o desempenho das operações.
+
+Entre os pontos trabalhados estão:
+
+- Uso estratégico de ações e transformações
+- Organização das operações para melhor performance
+- Aplicação de boas práticas no processamento distribuído
+- Avaliação do impacto das operações sobre o volume de dados
+
+Essa etapa demonstra a preocupação com escalabilidade e eficiência, aspectos fundamentais em projetos de Big Data.
