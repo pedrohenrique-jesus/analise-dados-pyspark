@@ -40,3 +40,16 @@ Principais etapas desenvolvidas:
 - Limpeza e organização das informações
 
 Este notebook demonstra a etapa de preparação dos dados, essencial em projetos de análise e engenharia de dados, antes da realização de agregações ou análises mais complexas.
+
+## 🧪 Notebook 3 — Preparação dos Dados (`preparacao.ipynb`)
+
+Este notebook aprofunda a etapa de preparação dos dados, consolidando transformações realizadas anteriormente e organizando as informações para futuras análises.
+
+Entre as atividades desenvolvidas estão:
+
+- Ajustes finais na estrutura dos DataFrames
+- Tratamento complementar de colunas
+- Organização e padronização dos dados
+- Preparação para análises e agregações posteriores
+
+Essa etapa é fundamental em projetos de dados, pois garante consistência, qualidade e confiabilidade antes da geração de insights.
