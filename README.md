@@ -53,3 +53,18 @@ Entre as atividades desenvolvidas estão:
 - Preparação para análises e agregações posteriores
 
 Essa etapa é fundamental em projetos de dados, pois garante consistência, qualidade e confiabilidade antes da geração de insights.
+
+## 🧪 Notebook 4 — Agregações e Análises (`agregacao.ipynb`)
+
+Neste notebook são aplicadas operações de agregação utilizando o método `groupBy()` em conjunto com funções analíticas do PySpark.
+
+Principais operações desenvolvidas:
+
+- Agrupamento de dados por colunas específicas
+- Cálculo de métricas como:
+  - Contagem (`count`)
+  - Soma (`sum`)
+  - Média (`avg`)
+- Organização dos resultados para análise
+
+Essa etapa representa a transição do processamento de dados para a geração de informações consolidadas, permitindo identificar padrões e métricas relevantes a partir dos datasets.
